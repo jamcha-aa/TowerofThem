@@ -1,7 +1,7 @@
 # 黒龍の塔
 
--   [前編](https://github.com/jamcha-aa/TowerofThem/blob/master/articles/01.md)
--   [後編](https://github.com/jamcha-aa/TowerofThem/blob/master/articles/02a.md)
+-   [前編](https://github.com/jamcha-aa/TowerofThem/blob/another/articles/01.md)
+-   [後編](https://github.com/jamcha-aa/TowerofThem/blob/another/articles/02b.md)
 
 ## License
 
