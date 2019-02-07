@@ -168,7 +168,7 @@
 
   <br>
 
-  [[https://github.com/jamcha-aa/TowerofThem/blob/master/articles/02a.md][後編へ進む]]
+  [[https://github.com/jamcha-aa/TowerofThem/blob/master/articles/02.md][後編へ進む]]
 
   <br>
   <br>
@@ -178,5 +178,3 @@
   Copyright (c) 2017 jamcha (jamcha.aa@gmail.com).
 
   [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][file:http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png]]
-
-
