@@ -1,7 +1,7 @@
 #+OPTIONS: toc:nil
 #+OPTIONS: \n:t
 
-* Fatum -- 黒龍の塔 --
+* 黒龍の塔 - Fatum -
 ** 7
    「こいつで間違いないか」「はい。穢れた像を持っております」
 
