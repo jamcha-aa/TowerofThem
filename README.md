@@ -1,6 +1,6 @@
 
 
-# Fatum &#x2013; 黒龍の塔 --
+# 黒龍の塔 - Fatum -
 
 -   [前編](https://github.com/jamcha-aa/TowerofThem/blob/master/articles/01.md)
 -   [後編](https://github.com/jamcha-aa/TowerofThem/blob/master/articles/02.md)
