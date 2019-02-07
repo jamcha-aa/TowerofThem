@@ -1,7 +1,7 @@
 #+OPTIONS: toc:nil
 #+OPTIONS: \n:t
 
-* 黒龍の塔
+* Fatum -- 黒龍の塔 --
 ** 7
    太陽とともに月もその姿を消した。だがその魔力は，夜の続くこの世界にいまだ残っている。かつて新月と呼ばれた日，そして月の魔力が最も弱まる日，それが今では真月と呼ばれている。人のもつ憎しみ，恨み，つらみ，嫉妬，嘆き，光なきものが最も強まる時でもある。
 
@@ -71,7 +71,7 @@
 
   <br>
 
-  もうひとつの結末を知りたい方は，ブランチをanotherに切り替えてください。
+  もうひとつの結末を知りたい方は，ブランチを another に切り替えてください。
 
   <br>
 
@@ -80,5 +80,3 @@
   Copyright (c) 2017 jamcha (jamcha.aa@gmail.com).
 
   [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][file:http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png]]
-
-
