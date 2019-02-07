@@ -1,11 +1,11 @@
 #+OPTIONS: toc:nil
 #+OPTIONS: \n:t
 
-* 黒龍の塔
+* Fatum -- 黒龍の塔 --
   - [[https://github.com/jamcha-aa/TowerofThem/blob/another/articles/01.md][前編]]
   - [[https://github.com/jamcha-aa/TowerofThem/blob/another/articles/02.md][後編]]
 
-** License
+
 Copyright (c) 2017 jamcha (jamcha.aa@gmail.com).
 
 This novel is licensed under the [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][Creative Commons Attribution Non Commercial Share Alike 4.0 International License]]
